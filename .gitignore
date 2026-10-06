@@ -8,6 +8,7 @@ __pycache__/
 .ruff_cache/
 .env
 *.md
+!README.md
 data/
 *.sqlite3
 *.db
